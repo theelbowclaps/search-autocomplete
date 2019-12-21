@@ -4,14 +4,14 @@
 
 1. Install docker and docker-compose
 
-   ###Mac###
-   https://docs.docker.com/v17.12/docker-for-mac/install/
+   - Mac
+     https://docs.docker.com/v17.12/docker-for-mac/install/
 
-   ###Window:###
-   https://docs.docker.com/v17.12/docker-for-windows/install/
+   - Window
+     https://docs.docker.com/v17.12/docker-for-windows/install/
 
-   ###Ubuntu:###
-   https://docs.docker.com/v17.12/install/linux/docker-ce/ubuntu/
+   - Ubuntu
+     https://docs.docker.com/v17.12/install/linux/docker-ce/ubuntu/
 
-2. run docker-compose up
+2. `docker-compose up`
 3. visit demo page at locahost:8080
